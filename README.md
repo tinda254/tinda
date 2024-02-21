@@ -1,0 +1,2 @@
+# tinda
+Determined
